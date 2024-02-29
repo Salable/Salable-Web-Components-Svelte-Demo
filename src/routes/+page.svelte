@@ -22,6 +22,5 @@
             member='example-member-123'
             grantee-id='example-grantee-123'
             success-url="https://example.com/success"
-            email="alison@example.com"
     ></salable-checkout>
 </main>
