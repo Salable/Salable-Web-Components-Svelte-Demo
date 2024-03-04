@@ -24,6 +24,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@salable/stencil-library": "^0.1.50"
+    "@salable/web-components": "^0.6.3"
   }
 }

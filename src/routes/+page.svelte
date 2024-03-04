@@ -1,5 +1,5 @@
 <script>
-    import {defineCustomElements} from "@salable/stencil-library/loader";
+    import {defineCustomElements} from "@salable/web-components/loader";
 
     defineCustomElements();
 </script>
