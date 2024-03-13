@@ -24,6 +24,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@salable/web-components": "^0.6.3"
+    "@salable/web-components": "^0.6.8"
   }
 }

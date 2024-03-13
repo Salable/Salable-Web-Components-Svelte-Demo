@@ -9,7 +9,7 @@ Clone the repo install the dependencies and run the project
 **Install dependencies**
 ```sh
 npm install
-```
+````
 
 **Start project**
 ```sh
