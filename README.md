@@ -1,6 +1,6 @@
 # Salable Web Components : Svelte Demo
 
-[Salable](https://www.salable.app) is a subscription licensing platform that allows users to have more control over their customers and how they interact with and use your applications/products.
+[Salable](https://www.salable.app) is a subscription licensing platform that allows users to have more control over their customers and how they interact with their applications/products.
 
 This demo repository shows how you can implement Salable Web Components into a Svelte project to do things such as:
 
@@ -16,8 +16,8 @@ To run this demo locally with your own Salable account, follow the steps below.
 2. Install the demo's dependencies (`npm install`)
 3. [Create a Salable account](https://salable.app/signup) (if you don't already have one)
 4. Create the required data for your chosen web component ([See requirements for each component here](https://docs.salable.app/web-components/web-components-latest/))
-5. Create a new session token for your chosen component using the Salable API
-6. Pass the required data to your component
+5. [Create a new session token](https://docs.salable.app/web-components/web-components-latest/#generating-a-session) for your chosen component using the [Salable API](https://docs.salable.app/api/v2#tag/Sessions/operation/createSession)
+6. Pass the [required data to your component](https://docs.salable.app/web-components/web-components-latest/#render-the-component)
 
 [_See examples of each component being used_](https://github.com/Salable/Salable-Web-Components-Svelte-Demo/blob/main/src/routes/%2Bpage.svelte)
 
@@ -33,7 +33,7 @@ To learn more about Salable, our web components and Svelte, check out the links 
 
 If you have found an issue or have feedback regarding this repo, please join our [Discord](https://discord.com/invite/xtytbyc4qz) and send us a message.
 
-If it's a quick fix like a misspelled word or broken link, feel free to create a pull request with the solution.
+Found an issue and want to fix it? Feel free to create a pull request with the solution.
 
 ## Want to get in contact with us?
 
